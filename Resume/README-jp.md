@@ -30,13 +30,13 @@ Line：andy840119
 
 # 職歷
 
-- 育辰國際際股份有限公司：２０１９年３月から〜
+- 育辰國際株式会社：２０１９年３月から〜
 
-- 愛月嫂國際際股份有限公司：２０１７年９月から２０１９年３月まで
+- 愛月嫂國際株式会社：２０１７年９月から２０１９年３月まで
 
-- 夠麻吉國際股份有限公司（研修）：２０１６年７月から２０１６年７月まで
+- 夠麻吉國際株式会社（研修）：２０１６年７月から２０１６年７月まで
 
-- 與楊股份有限公司（研修）：２０１５年１月から２０１５年７月まで
+- 與楊株式会社（研修）：２０１５年１月から２０１５年７月まで
 
 - ファミリマート（アルバイト）：２０１４年から２０１５年まで
 
@@ -58,9 +58,11 @@ Line：andy840119
 
 C#
 
-- アプリ作り（Xamarin）
+- アプリ（Xamarin）
 
-- バックエンド（asp.net asp.net Core）
+- バックエンド（asp.net、asp.net Core）
+
+- ゲーム作る（osu-karaoke）
 
 Vue.js
 
@@ -69,17 +71,28 @@ Vue.js
 
 Angular
 
-- 管理システム
+- [ngx-admin](https://akveo.com/)に基づいて、バックグラウンド管理を作る
+
+.
 
 # 作品
 
-## [愛月嫂](https://iaunty.com)：
+## [育辰國際株式会社](https://iaunty.com)：
+
+生産後もし照顧者が必要なら、ウェブサイトに様々な照顧者を探しでいます！
 
 .
 
 ## [Erratic Creation](https://erraticcreation.com)：
 
-モデルが買う、売りできるのe-commerceウェブサイトです。
+モデルが買う、売りできるのEコマースウェブサイトです。
+
+.
+
+## [オープンソースチャットアプリ](https://signal.org/) :
+
+カスタマイズ委託を受け取った、バックグラウンド管理を作る。
+
 .
 
 # サイドプロジェクト
@@ -90,9 +103,9 @@ Angular
 
 .
 
-## [osu-karaoke](https://github.com/osu-Karaoke/osu-Karaoke)：
+## [おす！カラオケ](https://github.com/osu-Karaoke/osu-Karaoke)：
 
-このオープンソースゲームに基づいて
+[この](https://github.com/ppy/osu)オープンソースゲームに基づいて
 
 カラオケを歌う、練習ができるゲームモードです。
 
@@ -100,9 +113,9 @@ Angular
 
 .
 
-## [Grand.Plugin.Widgets.Chat](https://github.com/andy840119/Grand.Plugin.Widgets.Chat)：
+## [Eコマースチャットプラグイン](https://github.com/andy840119/Grand.Plugin.Widgets.Chat)：
 
-Grandnode e-commerce ウェブサイトチャットできるため作るのチャットプラグイン。
+Grandnode　Eコマースウェブサイトチャットできるため作るのチャットプラグイン。
 
 .
 
