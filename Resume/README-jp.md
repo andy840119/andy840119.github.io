@@ -77,15 +77,31 @@ Angular
 
 # 作品
 
+
+
 ## [育辰國際株式会社](https://iaunty.com)：
+
+![img](res/iaunty_website.png)
 
 生産後もし照顧者が必要なら、ウェブサイトに様々な照顧者を探しでいます！
 
 .
 
+<img src="res/iaunty_line.jpg" width="250"/>
+
+私はこの会社働きのときに
+
+lineアプリを開発、ウェブサイトを管理、アップグレードします。
+
 ## [Erratic Creation](https://erraticcreation.com)：
 
+![img](res/erratic_creation.png)
+
 モデルが買う、売りできるのEコマースウェブサイトです。
+
+.
+
+これわ私育辰國際株式会社入り始めでのプロジェクト。
 
 .
 
@@ -105,6 +121,8 @@ Angular
 
 ## [おす！カラオケ](https://github.com/osu-Karaoke/osu-Karaoke)：
 
+![img](res/karaoke.png)
+
 [この](https://github.com/ppy/osu)オープンソースゲームに基づいて
 
 カラオケを歌う、練習ができるゲームモードです。
@@ -115,7 +133,9 @@ Angular
 
 ## [Eコマースチャットプラグイン](https://github.com/andy840119/Grand.Plugin.Widgets.Chat)：
 
-Grandnode　Eコマースウェブサイトチャットできるため作るのチャットプラグイン。
+![img](res/grandnode_chat.png)
+
+`Grandnode`Eコマースウェブサイトチャットできるため作るのチャットプラグイン。
 
 .
 
