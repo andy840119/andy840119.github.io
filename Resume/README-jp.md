@@ -128,11 +128,13 @@ lineアプリを開発、ウェブサイトを管理、アップグレードし�
 
 ## [LyricMaker](https://github.com/osu-Karaoke/LyricMaker)（まだ済まない）：
 
+![img](res//lyric-maker.png)
+
 カラオケ歌詞を作るのアプリ。
 
 .
 
-## [おす！カラオケ](https://github.com/osu-Karaoke/osu-Karaoke)：
+## [おす！カラオケ](https://github.com/osu-Karaoke/osu-Karaoke-dev)：
 
 ![img](res/karaoke.png)
 
@@ -140,7 +142,7 @@ lineアプリを開発、ウェブサイトを管理、アップグレードし�
 
 カラオケを歌う、練習ができるゲームモードです。
 
-デモは[こちら](https://www.youtube.com/watch?v=3Y6lYVc7LmY)です。
+デモは[こちら](https://www.youtube.com/watch?v=1pyswtlp5jk)です。
 
 .
 
