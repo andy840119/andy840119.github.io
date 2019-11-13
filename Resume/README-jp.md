@@ -12,7 +12,7 @@ e-mail：andy840119@gmail.com
 
 現住所：台北市
 
-Stype：andy840119
+Stype：live:andy840119
 
 Line：andy840119
 
@@ -62,7 +62,8 @@ Line：andy840119
 
 # 長所
 
-- 技術の上達が早い
+- 技術の上達が早い。
+- 色々な技術な勉強している。
 
 # 短所
 
@@ -91,7 +92,7 @@ Line：andy840119
 
 # 作品
 
-## [育辰國際株式会社](https://iaunty.com)：
+## [愛月嫂國際株式会社](https://iaunty.com)：
 
 ![img](res/iaunty_website.png)
 
@@ -113,7 +114,7 @@ lineアプリを開発、ウェブサイトを管理、アップグレードし�
 
 .
 
-これわ私育辰國際株式会社入り始めでのプロジェクト。
+これは私育辰國際株式会社入り始めでのプロジェクトです。
 
 .
 
@@ -127,11 +128,13 @@ lineアプリを開発、ウェブサイトを管理、アップグレードし�
 
 ## [LyricMaker](https://github.com/osu-Karaoke/LyricMaker)（まだ済まない）：
 
+![img](res//lyric-maker.png)
+
 カラオケ歌詞を作るのアプリ。
 
 .
 
-## [おす！カラオケ](https://github.com/osu-Karaoke/osu-Karaoke)：
+## [おす！カラオケ](https://github.com/osu-Karaoke/osu-Karaoke-dev)：
 
 ![img](res/karaoke.png)
 
@@ -139,7 +142,7 @@ lineアプリを開発、ウェブサイトを管理、アップグレードし�
 
 カラオケを歌う、練習ができるゲームモードです。
 
-デモは[こちら](https://www.youtube.com/watch?v=3Y6lYVc7LmY)です。
+デモは[こちら](https://www.youtube.com/watch?v=1pyswtlp5jk)です。
 
 .
 
