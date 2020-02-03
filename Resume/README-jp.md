@@ -12,7 +12,7 @@ e-mail：andy840119@gmail.com
 
 現住所：台北市
 
-Stype：live:andy840119
+Skype：live:andy840119
 
 Line：andy840119
 
