@@ -463,7 +463,7 @@ Yourator，新創比較多
 
 ## 找工作用的好工具
 
-[](res/board.png)
+![](res/board.png)
 
 另外很推薦用trillo紀錄工作狀況
 
@@ -477,7 +477,7 @@ Yourator，新創比較多
 
 .
 
-[](res/card.png)
+![](res/card.png)
 
 每張卡片裡面可以留言目前的面試進度
 
@@ -485,7 +485,7 @@ Yourator，新創比較多
 
 .
 
-[](res/tag.png)
+![](res/tag.png)
 
 另外可以設計出不同的Tag
 
