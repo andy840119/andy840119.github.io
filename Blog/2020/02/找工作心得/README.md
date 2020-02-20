@@ -58,7 +58,7 @@
 
 1. 決定目標，程式語言
 2. 找哪種公司
-3. 刷題有用嗎?
+3. 刷Leetcod有用嗎?
 4. 如何找工作
 5. 該用獵頭嗎?
 6. 薪水該怎麼談
@@ -276,11 +276,11 @@ PPT上面前四大大學或碩士面試的公司才會遇到
 
 第一種有些公司真的需要比較複雜的演算法，沒辦法
 
-難度可能在Medium以上
+難度可能在`Medium`以上
 
 .
 
-第二種的問題會比較偏向生活上的問題，難度會偏在Easy~Medium
+第二種的問題會比較偏向生活上的問題，難度會偏在`Easy`~`Medium`
 
 如果用自己熟悉的語言把問題解決掉
 
@@ -296,7 +296,19 @@ PPT上面前四大大學或碩士面試的公司才會遇到
 
 和`考試時間/題數`來猜考試難度
 
-例如`120分鐘/五題`的基本上難度不會多難，頂多Medium這樣
+例如`120分鐘/五題`的基本上難度不會多難，頂多`Medium`這樣
+
+.
+
+另外不管有沒有上機考的
+
+有些考能可能都是需要準備一下的
+
+- [常被問到的問題](https://www.cakeresume.com/resources/top-10-developer-programmer-job-interview-questions-2018)，可以想幾套說法，不同公司採用最接近的說法
+- 啃一下`SQL`語法，尤其是`ORM`用得有夠爽的工程師，至少要熟悉關聯資料庫，[Join關係](https://stackoverflow.com/questions/5706437/whats-the-difference-between-inner-join-left-join-right-join-and-full-join)，[基本語法](https://www.1keydata.com/tw/sql/sqlhaving.html)，[T-SQL](https://ithelp.ithome.com.tw/articles/10190252)等等，不熟的話可以刷一下[leetcode](https://leetcode.com/problemset/database/)
+- MVC是啥，一個request到後端，最後回傳reponse的流程(程式怎麼跑)
+
+完整的[技術型考題](https://www.twblogs.net/a/5c650a70bd9eee06ee22c866)可以參考這篇，但不才覺得要全部準備完有點難度就是了(汗)
 
 .
 
@@ -310,11 +322,11 @@ PPT上面前四大大學或碩士面試的公司才會遇到
 
 .
 
-普通一點的`104`，職缺好壞參半，但最近感覺好職缺稍微變多(設定最低薪水後)
+普通一點的`104`，職缺好壞參半，但最近感覺好職缺稍微變多(把低於某個薪水過濾掉後)
 
 .
 
-或是可以考慮`CakeResume`，這邊薪水不錯(更正 :也有下降的趨勢)
+或是可以考慮`CakeResume`，這邊薪水不錯(更正:薪水也有下降的趨勢)
 
 如果是新鮮人可以嘗試看看，但相對要自己能力要強一些。
 
@@ -324,7 +336,7 @@ PPT上面前四大大學或碩士面試的公司才會遇到
 
 可以製作出漂亮的履歷
 
-能匯出履歷變成PDF方便投遞。
+能匯出履歷變成`PDF`方便投遞。
 
 .
 
@@ -488,7 +500,7 @@ PPT上面前四大大學或碩士面試的公司才會遇到
 
 30歲大概`75K~80K`左右
 
-接近年薪百萬（Senior左右程度）
+接近年薪百萬（`Senior`左右程度）
 
 算是一個有心就可以達到的目標
 
