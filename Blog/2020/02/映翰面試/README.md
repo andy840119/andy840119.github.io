@@ -16,7 +16,7 @@
 
 ## 投履歷
 
-最後在[CakeResume](https://www.cakeresume.com/companies/hard-core-technology/jobs/web-developer-software-developer)看到映漢有在徵Junior Developer
+最後在[CakeResume](https://www.cakeresume.com/companies/hard-core-technology/jobs/web-developer-software-developer)看到映漢有在徵`Junior Developer`
 
 然後那個薪水跟其他公司的`Senior`有得拚阿阿斯
 
@@ -260,7 +260,7 @@
 
 然後為了這次的聊聊請了一整天假
 
-避免像上次91app那樣因為把面試約在早上，結果因為腦子轉不動整個大GG
+避免像上次`91app`那樣因為把面試約在早上，結果因為腦子轉不動整個大GG
 
 .
 
@@ -328,6 +328,30 @@ CEO解釋這些問題
 
 .
 
+然後這週等`Offer`
+
+.
+
+## Offer
+
+過了兩天Offer get!
+
+雖然是領`Junior`[最低的薪水](https://www.cakeresume.com/companies/hard-core-technology/jobs/web-developer-software-developer)
+
+但也讓不才挺滿意了
+
+光是能接受`換語言`，有乖乖做`Code review`的公司就有夠難找了
+
+手指頭數起來就那幾家QAQ
+
+.
+
+最一開始投履歷時根本沒想過可以一路爬到最終面試，還可以拿到`Offer`
+
+真的挺開心的
+
+.
+
 ## 結論
 
 整體面試感覺不錯
@@ -338,7 +362,7 @@ CEO解釋這些問題
 
 不需要特別刷`leetcode`
 
-但`HackerRank`可能要熟悉一下他的線上考題環境就是了(2/26補充 : 線上考試終於支援`IntelliSense`，終於不用忍受和記事本差不多的IDE了)
+但`HackerRank`可能要熟悉一下他的線上考題環境就是了(2/26補充 : `HackerRank`終於支援`IntelliSense`，終於不用忍受和記事本差不多的IDE了)
 
 .
 
@@ -394,7 +418,7 @@ CEO解釋這些問題
 
 至少不才是沒想到為啥不進去的理由就是了
 
-~~(糟糕突然覺得91可以接觸到大流量有點吸引人)~~
+~~(糟糕突然覺得17可以接觸到大流量有點吸引人)~~
 
 .
 
@@ -402,6 +426,6 @@ CEO解釋這些問題
 
 還要兩次面試
 
-有夠累
+真TM有夠硬wwwwww
 
 .
