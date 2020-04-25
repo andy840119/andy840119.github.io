@@ -4,23 +4,27 @@
 
 到新公司也差不多一個月了
 
-前面都在啃`Python` + `Angular(JS)`，啃到都快起肖了
+前面都在啃`Python` 和 `Angular(JS)`
 
-最近終於把最困難的作業寫完
-
-可以開始~~偷懶~~繼續寫文裝了
+啃到都快起肖了
 
 .
 
-然後至從去年開始改使用`Markdown`打文章發現比那智障`Html`好用一百倍後
+最近終於把最困難的作業寫完
+
+可以開始~~偷懶~~繼續寫文章了
+
+.
+
+然後自從去年開始改使用`Markdown`打文章，發現比那智障`Html`好用一百倍後
 
 就想著用`Github page`架設部落格
 
 .
 
-之後打算`Github page`專門打文件相關的文章
+之後打算`Github page`專門打文件，教學相關的文章
 
-舊的部落格打開箱文之類的
+[舊的部落格](http://blog.udn.com/andy840119)打開箱文之類的
 
 沒辦法，舊的部落格SEO還是做得不錯
 
@@ -28,27 +32,27 @@
 
 .
 
-## 目標
+## Github page架設目標
 
 最終的目標是，會分成兩個專案(repo)
 
-一個只放[主題](https://github.com/andy840119/jekyll-tameowder-theme)
+[主題專案](https://github.com/andy840119/jekyll-tameowder-theme)裡面只有在Jekyll產生網頁時會用到的資源，例如網頁上方的Header圖片，背景圖片等等
 
-一個只放[文章內容](https://github.com/andy840119/andy840119.github.io)，裡面只有`md`檔和`圖片檔`，不會有自動產生的`html`，像是網站的資料庫
+[文章專案](https://github.com/andy840119/andy840119.github.io)裡面只有`md`檔和`圖片檔`，不會有自動產生的`html`，感覺像是網站的資料庫
 
 .
 
-在文章內容那邊，如果有新增文章到`master`分支
+在文章專案那邊，如果有新增文章到`master`分支
 
-就會自動觸發`github`裡面的`CD`，抓取`_config.yml`裡面指定的`主題`
+就會自動觸發`github`裡面的`自動部署(CD)`，抓取`_config.yml`裡面指定的`主題`
 
-然後把傳內所有`md`檔和`圖片檔`編譯成`html`靜態網頁
+然後把專案內所有`md`檔和`圖片檔`編譯成`html`靜態網頁
 
 最後就可以在網址上看到
 
-例如不才的github repo(https://github.com/andy840119/andy840119.github.io)
+例如不才的[github repo](https://github.com/andy840119/andy840119.github.io)
 
-最後就會呈現成這種效果(https://andy840119.github.io/)
+最後就會呈現成[這種效果](https://andy840119.github.io/)
 
 .
 
@@ -71,12 +75,12 @@
 - 文章下方留言板
 - SEO優化(當然是自動的，或是可以手動指定SEO關鍵字)
 - 每一篇文章或是總文章的`Counter`
-- 切出左邊的Navigation方便坎入`Discord`或是`Facebook`的Frame進去
+- 切出左邊的`Navigation`方便坎入`Discord`或是`Facebook`的Frame進去
 - 反正舊的部落格的東西希望這邊大部分都要有就是了
 
 ## 如何跑自己的主題
 
-首先先在Github下建立一個專案(Repo)
+首先先在`Github`下建立一個專案(Repo)
 
 名稱取`<你的github user name>.github.io`
 
@@ -104,7 +108,7 @@
 
 到`https://<你的github user name>.github.io`看
 
-就會發現主題變了
+就會發現主題變了，\變成不才的主題/
 
 .
 
@@ -124,7 +128,7 @@
 
 簡單來說
 
-可以看看打出來的markdown
+可以看看打出來的`markdown`
 
 會實際被編譯成怎麼樣的`Html`出來
 
@@ -138,7 +142,7 @@
 
 建議使用`Mac` + `Visual studio code`
 
-`Windows 可能很難搞`
+`Windows 在安裝 Jekyll Server 可能很難搞`
 
 .
 
@@ -157,13 +161,13 @@ Gemfile.lock
 
 如果沒問題在`http://localhost:4000/`應該就可以看到跟在`github page`一模一樣的東西了
 
-測試過`Remote theme`也會自動抓下來
+測試過在Github上的`Remote theme`也會自動抓下來
 
 .
 
 ## 如何在本地把主題內容跑起來
 
-如果要開發自己的主題，在Local跑起來一台機器總是比上傳後看效果快
+如果要開發自己的主題，在`Local`跑起來一台機器總是比上傳後看效果快
 
 .
 
@@ -181,10 +185,11 @@ Gemfile.lock
 
 .
 
-如果想要用Chrome debug
+如果想要用`Chrome debug`
 
 可以參考[這篇文章](https://emous.github.io/2019/04/05/UseVisualStudioCodeToWriteWithJekyll/)建立`.vscode/launch.json`
 
 不過還是要`bundle exec jekyll serve`打指令把Server跑起來後，才能用Chrome偵錯
 
 .
+
