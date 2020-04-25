@@ -1,1 +1,14 @@
+# theme
 remote_theme: andy840119/jekyll-tameowder-theme
+
+# header
+title: 他喵的又在搞飛機了..=ω=a
+description: 他喵的野生日常，Github分部
+show_downloads: false
+
+# navigation
+facebook_url: https://www.facebook.com/OAQaa
+discord_id: 299006062323826688
+
+# trackng
+google_analytics: UA-164533327-1
