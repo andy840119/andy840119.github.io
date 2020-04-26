@@ -1,0 +1,5 @@
+# this folder will be created if runs bundle exec jekyll serve commend
+_site/
+
+# ignore gemfile
+Gemfile.lock
