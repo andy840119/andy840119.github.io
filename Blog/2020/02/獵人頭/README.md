@@ -27,9 +27,7 @@ parent: 面試
 這邊就分享一下幾家遇到比較有意思的吧 :
 
 - [多博科技](#多博科技)
-- [PeopleSearch(推)](#PeopleSearch)
-
-.
+- [PeopleSearch](#PeopleSearch)
 
 還有順便分享一些獵人頭的心得
 

@@ -4,7 +4,7 @@ parent: asp.net mvc
 
 # Asp.net 專案產生 CopyRefAssembliesToPublishDirectory 錯誤
 
-# 前言
+## 前言
 
 最近被認識的人問到
 
@@ -78,7 +78,7 @@ parent: asp.net mvc
 
 .
 
-# 正文
+## 正文
 
 
 ![img](https://1.bp.blogspot.com/-ePcASqSiFAQ/XS20_l3LpTI/AAAAAAAAZng/h-u4UdUtisA7y5GpMjEWF0uYFlLT4WvugCLcBGAs/s1600/1.png)
@@ -154,7 +154,7 @@ parent: asp.net mvc
 
 .
 
-# 結論 
+## 結論 
 
 白生氣了
 
