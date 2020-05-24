@@ -18,3 +18,6 @@ facebook_url: https://www.facebook.com/OAQaa
 
 # trackng
 google_analytics: UA-164533327-1
+
+# Footer content appears at the bottom of every page's main content
+footer_content: "Copyright &copy; 2019-2020 他喵的野生日常. Distributed by an <a href=\"https://github.com/andy840119\">GPL V3 license.</a>"
