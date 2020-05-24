@@ -1,4 +1,10 @@
-# 前言 : 
+---
+parent: CI
+---
+
+# 把github 的專案自動部署到nuget上
+
+## 前言 : 
 
 最近在寫專案
 
@@ -20,7 +26,7 @@
 
 .
 
-# 佈署方式 :
+## 佈署方式 :
 
 簡單來說，CI(持續整合) CD(自動佈署)有好幾種方法
 
@@ -45,7 +51,7 @@
 
 .
 
-# 執行流程
+## 執行流程
 
 先簡單說明一下執行過程好了，以`Appveyor`為例
 
@@ -72,7 +78,7 @@
 
 .
 
-# 腳本(build.cake)
+## 腳本(build.cake)
 
 這邊的說明方式是直接把整份`build.cake`直接翻開來加上註解做說明
 
@@ -311,7 +317,7 @@ Task("Default")
 RunTarget(target);
 ```
 
-# 腳本(appveyor.yml)
+## 腳本(appveyor.yml)
 
 接下來新增`build.cake`
 
@@ -388,7 +394,7 @@ deploy: off #deploy handled by cake script
 
 .
 
-# 後言
+## 後言
 
 在摸了半天，知道整個運作流程後
 

@@ -1,3 +1,7 @@
+---
+parent: 面試
+---
+
 # 映瀚科技(Hard Core Technology(GoFreight))面試 心得分享
 
 ## 前言
