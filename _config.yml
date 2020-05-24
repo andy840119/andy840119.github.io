@@ -1,14 +1,20 @@
 # theme
-remote_theme: andy840119/jekyll-tameowder-theme
+remote_theme: andy840119/tameowder-theme
 
 # header
 title: 他喵的又在搞飛機了..=ω=a
 description: 他喵的野生日常，Github分部
-show_downloads: false
+baseurl: "/"
+url: "https://andy8401109.github.io"
+
+
+# Aux links for the upper right navigation
+aux_links:
+  "my GitHub":
+    - "//github.com/andy840119/"
 
 # navigation
 facebook_url: https://www.facebook.com/OAQaa
-discord_id: 299006062323826688
 
 # trackng
 google_analytics: UA-164533327-1

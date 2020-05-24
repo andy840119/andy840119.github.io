@@ -1,3 +1,9 @@
+---
+parent: asp.net mvc
+---
+
+# Asp.net 專案產生 CopyRefAssembliesToPublishDirectory 錯誤
+
 # 前言
 
 最近被認識的人問到
