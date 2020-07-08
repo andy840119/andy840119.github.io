@@ -24,6 +24,8 @@ parent: 開箱
 
 .
 
+![](res/aac.jpg)
+
 公司倒不倒無所謂
 
 反正有便宜的機器可以玩了
@@ -60,13 +62,23 @@ parent: 開箱
 
 到[FreeNas](https://www.freenas.org/download/)官網下載，用[Rufus](https://rufus.ie/)把作業系統安裝到USB上
 
+.
+
+![](res/bios.jpg)
+
 開機時按`delete`進到`bios`
 
 修改一下開機順序
 
+.
+
+![](res/boot-initial.jpg)
+
 應該可以順利`freeNas`安裝前選單畫面
 
 .
+
+![](res/boot-controller-timeout.jpg)
 
 但如果用預設選項卡在`Controller timeout`的錯誤
 
@@ -76,6 +88,10 @@ parent: 開箱
 
 可以參考[這篇文章](https://forums.freebsd.org/threads/sdhci_pci0_slot0-controller-timeout.59077/)解決
 
+.
+
+![](res/boot-type-set.jpg)
+
 1. 看到畫面時輸入`3`進入`options`在輸入`2`
 2. 接下來應該可以在下面輸入指令
 3. 輸入
@@ -83,11 +99,23 @@ parent: 開箱
 4. 可以輸入`Show`指令看看有沒有被加在開機設定內，還有有沒有打錯字
 5. 輸入`boot`用目前設定好的參數來開機
 
+.
+
+![](res/install.jpg)
+
 應該就可以順利跑到安裝畫面
+
+安裝方式就跟其他網路教學差不多
 
 .
 
-安裝方式就跟其他網路教學差不多
+![](res/install-select-uefi.jpg)
+
+最後記得選`UEFI`
+
+.
+
+![](res/install-stuck.jpg)
 
 但目前有遇到兩個問題 :
 
@@ -96,17 +124,29 @@ parent: 開箱
 
 .
 
-接著就會出現安裝的進度點點，安裝好後會重新開機，記得把USB拔掉
+![](res/install-success.jpg)
+
+接著就會出現安裝的進度點點，等等等候安裝完成
+
+安裝好後會重新開機，記得把USB拔掉
 
 .
+
+![](res/boot-in-internal.jpg)
 
 開機進入安裝好的系統也要做跟剛剛一樣的動作
 
 第一次會跑比較久
 
+.
+
+![](res/boot-get-ip.jpg)
+
 最後螢幕就會出現local可以進去的IP
 
 .
+
+![](res/login-success.jpg)
 
 用溜覽器輸入IP後就可以開始玩了
 
