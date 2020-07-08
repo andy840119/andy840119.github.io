@@ -54,7 +54,7 @@ parent: 開箱
 
 打算一台拿來裝`FreeNas`跑`Container`或`CI server`
 
-另外一台灌`Batocera`當遊戲機
+另外一台灌[Batocera](../aac-install-batocera/README.md)當遊戲機
 
 .
 
