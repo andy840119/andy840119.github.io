@@ -139,6 +139,7 @@ parent: 開箱
 - 如果聲音輸出正確，在首頁畫面可以聽到超好聽的`BGM`，但後來不知道怎樣都叫不出來，QQ
 - 設定的聲音輸出可能會跑掉。
 - 預設的模擬器不多，是因為有些模擬器需要的`bios`檔案有版權問題，需要自己抓
+- `[注意]` `[注意]` `[注意]` batocera 沒有網頁介面可以輸入IP後放遊戲，要放遊戲的話請參考[官方教學](https://wiki.batocera.org/add_games#from_a_different_computer_through_the_network)。然後我自己測試windows沒辦法登入(錯誤碼0x80004005)，但iphone(或是mac)可以用SMB登入
 
 .
 
