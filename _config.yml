@@ -16,7 +16,12 @@ aux_links:
 # navigation
 facebook_url: https://www.facebook.com/OAQaa
 
-# trackng
+# google seo verification
+# https://search.google.com/search-console/welcome
+# https://github.com/jekyll/jekyll/issues/3514
+google_verify: nhKskbQxAPbq7OADIwe5KmhVGs5liv0pfe2hHTQTfFU=
+
+# tracking
 google_analytics: UA-164533327-1
 
 # Footer content appears at the bottom of every page's main content
