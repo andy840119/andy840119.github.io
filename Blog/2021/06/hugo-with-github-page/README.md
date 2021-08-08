@@ -1,5 +1,5 @@
 ---
-parent: blog
+parent: 經驗
 ---
 
 # [教學] 用hugo在github上面架設自己的部落格 
