@@ -1,5 +1,5 @@
 ---
-parent: blog
+parent: 開箱
 ---
 
 # [開箱] Thronmax M8 Pulse USB麥克風開箱 + 心得分享
