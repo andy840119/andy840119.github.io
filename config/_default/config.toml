@@ -1,0 +1,12 @@
+baseURL = "http://andy840119.github.io/"
+defaultContentLanguage = "en" # Default language to use (if you setup multilingual)
+hasCJKLanguage = true # Set `true` for Chinese/Japanese/Korean languages.
+title = "他喵的野生日常"
+theme = "hugo-theme-hello-friend"
+
+rssLimit = 0
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+  series = "series"

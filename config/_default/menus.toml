@@ -1,0 +1,5 @@
+[[main]]
+  identifier = "blog"
+  name = "文章"
+  url = "blog"
+  weight = 1
