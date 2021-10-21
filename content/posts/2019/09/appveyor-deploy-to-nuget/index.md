@@ -2,6 +2,7 @@
 title: '[教學] 把github 的專案自動部署到nuget上'
 date: 2019-09-01
 tags: [CI, 教學]
+draft: true
 aliases:
   - "/Blog/2019/09/appveyot_deploy_to_nuget/README.html"
 ---
@@ -84,7 +85,7 @@ aliases:
 
 這邊的說明方式是直接把整份`build.cake`直接翻開來加上註解做說明
 
-也可以從[這邊](https://github.com/osu-Karaoke/LyricMaker/blob/develop/build.cake)看
+也可以從[這邊](https://github.com/karaoke-dev/LyricMaker/blob/develop/build.cake)看
 
 .
 
@@ -100,7 +101,7 @@ aliases:
 
 接下來新增`build.cake`
 
-然後複製[這邊](https://github.com/osu-Karaoke/LyricMaker/blob/develop/build.cake)的內容過去
+然後複製[這邊](https://github.com/karaoke-dev/LyricMaker/blob/develop/build.cake)的內容過去
 
 然後在修改成自己想要的樣子
 
@@ -323,7 +324,7 @@ RunTarget(target);
 
 接下來新增`build.cake`
 
-然後複製[這邊](https://github.com/osu-Karaoke/LyricMaker/blob/develop/build.cake)的內容過去
+然後複製[這邊](https://github.com/karaoke-dev/LyricMaker/blob/develop/build.cake)的內容過去
 
 也是在修改成自己想要的樣子
 
