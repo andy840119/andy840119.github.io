@@ -2,6 +2,8 @@
 title: '[開箱] VG242Y P 24型 IPS 165Hz 0.5ms HDR400 極速電競螢幕'
 date: 2021-04-29
 tags: [開箱]
+aliases:
+  - "/Blog/2021/04/vg24y-p-unboxing/README.html"
 ---
 
 ## 前言

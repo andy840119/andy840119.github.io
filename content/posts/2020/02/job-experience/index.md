@@ -2,6 +2,8 @@
 title: '[面試] 工作兩年 + 找工作心得'
 date: 2020-02-16
 tags: [面試, 心得]
+aliases:
+  - "/Blog/2020/02/找工作心得/README.html"
 ---
 
 ## 前言

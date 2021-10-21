@@ -2,6 +2,8 @@
 title: '[開箱] 在FF36買的動畫機開箱'
 date: 2020-08-01
 tags: [開箱]
+aliases:
+  - "/Blog/2020/08/ff36-animation-machine/README.html"
 ---
 
 ## 前言

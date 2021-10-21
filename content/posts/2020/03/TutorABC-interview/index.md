@@ -2,6 +2,8 @@
 title: '[面試] TutorABC 研發工程師 面試心得'
 date: 2020-03-15
 tags: [面試]
+aliases:
+  - "/Blog/2020/03/TutorABC面試/README.html"
 ---
 
 ## 前言

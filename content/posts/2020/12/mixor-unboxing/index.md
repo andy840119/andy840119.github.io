@@ -2,6 +2,8 @@
 title: '[開箱] Aiyima 立體聲音頻信號混音器板耳機驅動器功率放大器混音器分配器(AU-204)'
 date: 2020-12-26
 tags: [開箱]
+aliases:
+  - "/Blog/2020/12/mixor-unboxing/README.html"
 ---
 
 ## 前言

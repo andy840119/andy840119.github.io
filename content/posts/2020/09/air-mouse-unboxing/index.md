@@ -2,6 +2,8 @@
 title: '[開箱] G10s pro 空中飛鼠'
 date: 2020-09-05
 tags: [開箱]
+aliases:
+  - "/Blog/2020/09/air-mouse-unboxing/README.html"
 ---
 
 ## 前言

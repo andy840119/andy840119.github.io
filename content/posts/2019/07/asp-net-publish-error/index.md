@@ -2,6 +2,8 @@
 title: '[教學] Asp.net 專案產生 CopyRefAssembliesToPublishDirectory 錯誤'
 date: 2019-07-01
 tags: [asp.net, 教學]
+aliases:
+  - "/Blog/2019/07/CopyRefAssembliesToPublishDirectory_Error/README.html"
 ---
 
 ## 前言

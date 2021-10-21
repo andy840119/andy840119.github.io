@@ -2,6 +2,8 @@
 title: '[教學] 锐角云（AAC）安裝Batocera教學'
 date: 2020-07-13
 tags: [開箱]
+aliases:
+  - "/Blog/2020/07/aac-install-batocera/README.html"
 ---
 
 ## 前言

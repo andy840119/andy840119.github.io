@@ -2,6 +2,8 @@
 title: '[面試] 91APP後端工程師面試 心得分享'
 date: 2020-02-22
 tags: [面試]
+aliases:
+  - "/Blog/2020/02/91APP面試/README.html"
 ---
 
 ## 前言

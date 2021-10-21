@@ -2,6 +2,8 @@
 title: '[閒聊] 兩年程式進步心得'
 date: 2020-06-16
 tags: [經驗]
+aliases:
+  - "/Blog/2020/06/兩年程式進步心得/README.html"
 ---
 
 ## 前言

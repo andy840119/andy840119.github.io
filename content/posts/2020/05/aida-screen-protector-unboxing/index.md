@@ -2,6 +2,8 @@
 title: '[開箱] AIDA 螢幕防窺片 開箱+試用心得'
 date: 2020-05-31
 tags: [開箱]
+aliases:
+  - "/Blog/2020/05/螢幕防窺片開箱/README.html"
 ---
 
 ## 前言

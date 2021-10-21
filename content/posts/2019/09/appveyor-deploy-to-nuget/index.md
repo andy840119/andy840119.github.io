@@ -2,6 +2,8 @@
 title: '[教學] 把github 的專案自動部署到nuget上'
 date: 2019-09-01
 tags: [CI, 教學]
+aliases:
+  - "/Blog/2019/09/appveyot_deploy_to_nuget/README.html"
 ---
 
 ## 前言 : 

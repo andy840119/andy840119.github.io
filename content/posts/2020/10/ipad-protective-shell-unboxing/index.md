@@ -2,6 +2,8 @@
 title: '[開箱] Likgus iPad Pro 2020 12.9吋 明盾防摔保護殼'
 date: 2020-10-23
 tags: [開箱]
+aliases:
+  - "/Blog/2020/10/ipad-protective-shell-unboxing/README.html"
 ---
 
 ## 前言

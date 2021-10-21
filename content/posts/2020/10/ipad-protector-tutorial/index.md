@@ -2,6 +2,8 @@
 title: '[開箱] 絕對不會貼失敗的保護貼教學 + GLASIN保護貼心得'
 date: 2020-10-23
 tags: [開箱, 經驗]
+aliases:
+  - "/Blog/2020/10/ipad-protector-tutorial/README.html"
 ---
 
 ## 前言

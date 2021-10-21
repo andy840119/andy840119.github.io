@@ -2,6 +2,8 @@
 title: '[面試] 獵人頭心得分享'
 date: 2020-02-27
 tags: [面試]
+aliases:
+  - "/Blog/2020/02/獵人頭/README.html"
 ---
 
 ## 前言

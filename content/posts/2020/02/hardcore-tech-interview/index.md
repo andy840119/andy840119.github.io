@@ -2,6 +2,8 @@
 title: '[面試] 映瀚科技(Hard Core Technology(GoFreight))面試 心得分享'
 date: 2020-02-11
 tags: [面試]
+aliases:
+  - "/Blog/2020/02/映翰面試/README.html"
 ---
 
 ## 前言

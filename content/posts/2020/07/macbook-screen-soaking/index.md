@@ -2,6 +2,8 @@
 title: '[教學] macbook 螢幕進水怎麼辦'
 date: 2020-07-05
 tags: [經驗]
+aliases:
+  - "/Blog/2020/07/macbook-screen-soaking/README.html"
 ---
 
 ## 前言
