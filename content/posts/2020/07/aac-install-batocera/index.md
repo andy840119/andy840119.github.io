@@ -12,7 +12,7 @@ aliases:
 
 把沒寫完的文章補一下
 
-繼[上一篇](../aac-install-freenas/README.md)把其中一台安裝FreeNas後
+繼[上一篇](../aac-install-freenas/index.md)把其中一台安裝FreeNas後
 
 這次把剩下的主機安裝`Batocera`
 

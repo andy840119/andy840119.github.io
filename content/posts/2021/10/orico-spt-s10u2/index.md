@@ -14,7 +14,7 @@ tags: [開箱]
 
 .
 
-最後在買 [Orico 外接硬碟盒](../orico-m2pjm-c3-unbixing/README.md) 時，順便添購湊折抵券金額
+最後在買 [Orico 外接硬碟盒](../orico-m2pjm-c3-unbixing/index.md) 時，順便添購湊折抵券金額
 
 .
 

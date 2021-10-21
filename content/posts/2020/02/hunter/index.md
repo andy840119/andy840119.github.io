@@ -12,7 +12,7 @@ aliases:
 
 .
 
-在[找工作](../找工作心得/README.md)時把`CakeResume`整理了一下設定成公開後
+在[找工作](../job-experience/index.md)時把`CakeResume`整理了一下設定成公開後
 
 過了一個星期居然每天都有獵頭來問有沒有要找工作
 
@@ -342,4 +342,4 @@ aliases:
 
 .
 
-然後找工作的經驗可以參考[這篇](../找工作心得/README.md)
+然後找工作的經驗可以參考[這篇](../job-experience/index.md)
