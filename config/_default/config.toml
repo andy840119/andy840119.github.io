@@ -6,6 +6,9 @@ theme = "hugo-theme-hello-friend"
 
 rssLimit = 0
 
+googleAnalytics = "UA-164533327-1"
+Copyright = "Copyright &copy; 2019-2020 他喵的野生日常. Distributed by an <a href=\"https://github.com/andy840119\">GPL V3 license.</a>"
+
 [taxonomies]
   category = "categories"
   tag = "tags"
