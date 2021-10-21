@@ -1,0 +1,17 @@
+<script> 
+    var links=document.getElementsByTagName('a'), hrefs = [];
+    for (var i = 0; i<links.length; i++) {   
+        const link = links[i];
+        const text = link.innerText;
+        const herf = link.getAttribute('href');
+
+        if(!herf)
+            continue;
+
+        if(!herf.endsWith('index.md'))
+            continue;
+
+        const newHerf = herf.replace('index.md', '');
+        link.setAttribute('href', newHerf);
+    }
+</script>
