@@ -1,5 +1,13 @@
-# this folder will be created if runs bundle exec jekyll serve commend
-_site/
+# Hugo default output directory
+/public
+/resources
 
-# ignore gemfile
-Gemfile.lock
+## OS Files
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# OSX
+.DS_Store
