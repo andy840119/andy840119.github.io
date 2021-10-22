@@ -24,7 +24,7 @@ tags: [經驗]
 
 - `jekyll`: 用ruby寫的，在github page上對新手小白有不錯的支援度
 - `hexo`: 差不多的東西，但是用nodejs寫的
-- `hugo`: 差不多的東西，但是是用go寫的，所以理論上速度最快
+- `hugo`: 差不多的東西，但是是用go寫的，所以理論上編譯速度最快
 
 ## 正文
 
@@ -41,6 +41,8 @@ https://github.com/ODOa/ODOa.github.io
 https://gohugo.io/getting-started/quick-start/
 
 先建立一個新的hugo page
+
+.
 
 https://github.com/ODOa/ODOa.github.io/pull/1
 
@@ -61,6 +63,12 @@ https://github.com/ODOa/ODOa.github.io/blob/main/.github/workflows/gh-pages.yml
 然後建立github action
 
 建立在`.github/workflows/gh-pages.yml`內
+
+在電腦上編輯可能會有推送不上去的情況
+
+可以直接在github上新增這個檔案
+
+.
 
 保險起見不建議換檔名，因為不太確定`gh-pages`這個檔名有沒有特殊用途
 
@@ -196,6 +204,22 @@ https://odoa.github.io/
    有些人有反應，但目前感覺作者沒想出好解法(主要是因為會產生大量重複檔案)
 4. 如果`content`目錄內有`index.md`，會造成其他檔案不會被編譯到(被這雷了好幾個小時...)
 5. 有很多樣板可以用，但每個樣板都有自己的document，如果哪天換樣板又需要重新讀document
-6. 如果遇到雷，很難判對到底是`hugo`的問題還是`樣板`的問題
+6. 如果遇到雷，很難判對到底是`hugo`的問題還是`樣板`的問題，建議如果遇到問題直接換另外一個主題來用
 
 以上
+
+.
+
+另外不才自己部落格目前是使用hugo-theme-hello-friend這套主題
+
+沒碰到啥問題
+
+.
+
+如果中間還有遇到問題的話
+
+也可以參考[不才的部落格](https://github.com/andy840119/andy840119.github.io)的設定
+
+現在已經整個轉換到hugo了
+
+.

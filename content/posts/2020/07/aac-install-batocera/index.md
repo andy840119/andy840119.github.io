@@ -143,7 +143,7 @@ aliases:
 - 如果聲音輸出正確，在首頁畫面可以聽到超好聽的`BGM`，如果沒聽到試著重開機，或是進聲音選項把一些設定都打開。
 - 設定的聲音輸出可能會跑掉。
 - ~~預設的模擬器不多~~如果沒有遊戲模擬器就不會顯示出來，還有有些模擬器的`bios`檔案有版權問題，需要自己抓
-- `[注意]` `[注意]` `[注意]` batocera 沒有網頁介面可以輸入IP後放遊戲，要放遊戲的話請參考[官方教學](https://wiki.batocera.org/add_games#from_a_different_computer_through_the_network)。然後我自己測試windows登入需要設定(如果遇到錯誤碼0x80004005請服用[這篇](https://dotblogs.com.tw/pinsblog/2018/01/30/200357))，iphone(或是mac)可以用SMB登入
+- `[注意]` `[注意]` `[注意]` batocera 沒有網頁介面可以輸入IP後放遊戲，要放遊戲的話請參考[官方教學](https://wiki.batocera.org/add_games#from_a_different_computer_through_the_network)。然後不才自己測試windows登入需要設定(如果遇到錯誤碼0x80004005請服用[這篇](https://dotblogs.com.tw/pinsblog/2018/01/30/200357))，iphone(或是mac)可以用SMB登入
 
 .
 
