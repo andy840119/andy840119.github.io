@@ -13,3 +13,8 @@ Copyright = "Copyright &copy; 2019-2020 他喵的野生日常. Distributed by an
   category = "categories"
   tag = "tags"
   series = "series"
+
+[sitemap]
+  changefreq = 'monthly'
+  filename = 'update_my_sitemap_fuck_you_google.xml'
+  priority = 0.5
