@@ -224,7 +224,7 @@ https://earth.mandarake.co.jp/help/ship/region.php?shipping=TW
 
 ![](res/2024-03-20-23-27-02.png)
 
-...總覺得這個 logo 之前在秋葉原買的 BD 上好像有看過
+...總覺得這個價格標籤之前在秋葉原買的 BD 上好像有看過
 
 .
 
@@ -271,3 +271,18 @@ https://earth.mandarake.co.jp/help/ship/region.php?shipping=TW
 - 會把運費也算進商品價格內，買個 7,8 千的東西加上運費後就從不用繳稅變成要繳稅了
 
 以上
+
+## 資源
+
+另外分享一下覺得好用的資源
+
+.
+
+找商品/代購:
+- [from japan](https://www.fromjapan.co.jp/tw): 可以一次查到 [yahoo 拍賣](https://auctions.yahoo.co.jp/)，[樂天](https://search.rakuten.co.jp/)，[mercari](https://jp.mercari.com/)，還有 [駿河屋](https://www.suruga-ya.jp/) 上面的商品，也可以代購。
+- [mandarake](https://order.mandarake.co.jp/order/): 不會特地來這裡，但搞不好有驚喜。
+- [yesasia](https://www.yesasia.com/global/zh_TW/home.html): 如果想要買到全新的 BD ，這邊可能會有。缺點是可能沒特點，也可能沒 box，也沒特價。
+
+yahoo/樂天拍賣歷史價格和交易量:
+- [aucfree](https://aucfree.com/search?from=2015-06&o=t2): 可以查到非常久之前的成交紀錄，和成交價格。`如果看到成交間隔都是半年以上，也沒幾個人在賣，那這個商品錯過後可能不好入手。`
+- [aucfan](https://aucfan.com/search1/): 只能看到最近一兩筆，沒有上面的好用。但會有正在賣的商品連結。
