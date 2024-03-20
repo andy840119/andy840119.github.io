@@ -1,6 +1,6 @@
 ---
-title: '[教學] One map 買買買分享(客服)'
-date: 2024-02-25
+title: '[教學] 如何在 mandarake 上面買買買'
+date: 2024-03-21
 tags: [教學, 心得]
 ---
 
