@@ -26,7 +26,7 @@ tags: [教學, 心得]
 
 .
 
-沒辦法了，全卷 box 沒收到，至少把這個坑補齊吧
+沒辦法了，全卷收納 box 沒收到，至少把這個坑補齊吧
 
 .
 
@@ -174,7 +174,7 @@ x 要大於 `4500`
 
 最後趁這次連假幫它做了個全卷收納 box
 
-如果對怎麼做盒子感興趣的，可以參考 [如何製作 blu-ray 收納 box](../../02//how-to-make-anime-blur-ray-box/index.md)
+如果對怎麼做盒子感興趣的，可以參考 [如何製作 blu-ray 全卷收納 box](../../02//how-to-make-anime-blur-ray-box/index.md)
 
 不才可以沒有家，但 BD 必須有
 
