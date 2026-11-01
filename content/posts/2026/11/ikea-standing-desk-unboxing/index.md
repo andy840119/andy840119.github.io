@@ -2,7 +2,6 @@
 title: '[開箱] IKEA 升降桌 MALOMRADE'
 date: 2026-11-01
 tags: [開箱]
-draft: true
 ---
 
 ## 前言

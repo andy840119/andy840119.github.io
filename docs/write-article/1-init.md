@@ -11,7 +11,7 @@
    - 從最新的 `master` 開新 branch，branch 名稱用 slug。
 4. 建立資料夾 `content/posts/<YYYY>/<MM>/<slug>/`，年月用今天的日期，裡面建一個空的 `res/` 資料夾放圖片。
 5. 建立 `index.md` 骨架:
-   - front matter 填好 title、date(今天)、tags，並加上 `draft: true`
+   - front matter 填好 title、date(今天)、tags，不要加 `draft: true`
    - 依文章類型放好 `##` 章節標題
    - 每個章節底下用 `<!-- TODO: ... -->` 提示這段要寫什麼、可以放哪些照片
 6. 搜尋 `content/posts/` 有沒有舊文章提過這個主題(例如年度購物清單裡寫了「之後會寫開箱文」)。有的話把相關內容摘要成 TODO 放進對應章節，並在前言附上舊文章的相對連結。記下這篇舊文章，發佈時要回頭補連結(見 [4-publish.md](4-publish.md))。

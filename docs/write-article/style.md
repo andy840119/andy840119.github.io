@@ -11,7 +11,6 @@
 title: '[開箱] 產品名稱'
 date: 2026-10-25
 tags: [開箱]
-draft: true
 ---
 
 ## 前言
