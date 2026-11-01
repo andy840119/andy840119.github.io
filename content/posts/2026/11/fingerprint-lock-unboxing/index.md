@@ -2,7 +2,6 @@
 title: '[開箱] 伊德萊斯 把手式指紋密碼鎖 (AH-547D-PLUS-1/P13TY-ORB)'
 date: 2026-11-01
 tags: [開箱]
-draft: true
 ---
 
 ## 前言

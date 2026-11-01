@@ -2,7 +2,6 @@
 title: '[開箱] GIANT 捷安特輕量化自行車攜車箱 Bicycle Transport Case 附輪子'
 date: 2026-11-01
 tags: [開箱]
-draft: true
 ---
 
 ## 前言
